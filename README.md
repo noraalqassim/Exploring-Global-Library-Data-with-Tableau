@@ -13,7 +13,7 @@ A **Dashboard** is a collection of views, such as charts and tables, brought tog
 
 ## Project Overview
 
-The dataset used in this project is titled **"Global Library Data.xlsx"**, which contains information about libraries across various world regions.
+The dataset used in this project is titled **`Global Library Data.xlsx`**, which contains information about libraries across various world regions.
 
 ### Step 1: Data Connection & Exploration
 
